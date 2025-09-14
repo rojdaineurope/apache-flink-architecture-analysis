@@ -20,6 +20,23 @@ The project provides an in-depth analysis of **Apache Flink** from an architectu
 
 ## 📂 Files
 - `APACHE-FLINK-ARCHITECTURE.docx` → The full report including analysis, diagrams, and tool outputs.
+- ## 🖼️ Architecture & Analysis Screenshots
+Below are some visuals included in this repository:
+
+### Flink Architecture Diagram
+![Flink Architecture](Screenshot%202025-09-14%20043528.png)
+
+### Modularity and Coupling Visualization
+![Coupling](Screenshot%202025-09-14%20043539.png)
+
+### Cohesion & Hotspot Analysis
+![Cohesion](Screenshot%202025-09-14%20043556.png)
+
+### Scalability, Reliability, and Performance Results
+![Scalability](Screenshot%202025-09-14%20043610.png)
+
+### Code Analysis (SonarQube / CodeScene)
+![Code Analysis](Screenshot%202025-09-14%20043635.png)
 
 ## 👩‍💻 Contributors
 - Musa Yüksel  
