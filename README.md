@@ -1,4 +1,5 @@
 # apache-flink-architecture-analysis
+The project provides an in-depth analysis of Apache Flink from an architectural perspective.
 # Apache Flink Architecture Analysis
 
 This repository contains the final project report for **Software Architecture** at Ankara Yıldırım Beyazıt University.  
