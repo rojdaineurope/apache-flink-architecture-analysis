@@ -25,19 +25,19 @@ The project provides an in-depth analysis of **Apache Flink** from an architectu
 Below are some visuals included in this repository:
 
 ### Flink Architecture 
-![Flink Architecture](Screenshot%202025-09-14%20043528.png)
+![Flink Architecture](docs/Screenshot%202025-09-14%20043528.png)
 
 ### Modularity and Coupling Visualization
-![Coupling](Screenshot%202025-09-14%20043539.png)
+![Coupling](docs/Screenshot%202025-09-14%20043539.png)
 
 ### Code 
-![Cohesion](Screenshot%202025-09-14%20043556.png)
+![Cohesion](docs/Screenshot%202025-09-14%20043556.png)
 
 ### Scalability, Reliability, and Performance Results
-![Scalability](Screenshot%202025-09-14%20043610.png)
+![Scalability](docs/Screenshot%202025-09-14%20043610.png)
 
 ### Tool Output (SonarQube / CodeScene)
-![Code Analysis](Screenshot%202025-09-14%20043635.png)
+![Code Analysis](docs/Screenshot%202025-09-14%20043635.png)
 
 ## 👩‍💻 Contributors
 - Musa Yüksel  
