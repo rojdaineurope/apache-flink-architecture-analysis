@@ -5,7 +5,7 @@ The project provides an in-depth analysis of Apache Flink from an architectural 
 This repository contains the final project report for **Software Architecture** at Ankara Yıldırım Beyazıt University.  
 The project provides an in-depth analysis of **Apache Flink** from an architectural perspective.
 
-## 📌 Contents
+##  Contents
 - Introduction to Apache Flink: purpose, functionality, core features
 - Advantages and disadvantages of Apache Flink
 - Prescriptive architecture: styles and patterns (Layered, Pipe and Filter, Master-Slave, Event-Driven, Microservices)
@@ -19,9 +19,9 @@ The project provides an in-depth analysis of **Apache Flink** from an architectu
 - Identification of architectural smells and constraints
 - Proposed architectural improvements
 
-## 📂 Files
+##  Files
 - `APACHE-FLINK-ARCHITECTURE.docx` → The full report including analysis, diagrams, and tool outputs.
-- ## 🖼️ Architecture & Analysis Screenshots
+- ##  Architecture & Analysis Screenshots
 Below are some visuals included in this repository:
 
 ### Flink Architecture 
