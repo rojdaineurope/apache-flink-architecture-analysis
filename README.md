@@ -48,4 +48,5 @@ Below are some visuals included in this repository:
 - [Apache Flink Official Documentation](https://nightlies.apache.org/flink/flink-docs-release-1.11/concepts/flink-architecture.html)  
 - [AWS: What is Apache Flink?](https://aws.amazon.com/what-is/apache-flink/)  
 - [SonarQube](https://www.sonarsource.com/products/sonarqube/)  
-- [CodeScene](https://codescene.io)  
+- [CodeScene](https://codescene.io)
+  should ı fwdf
