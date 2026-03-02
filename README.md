@@ -49,4 +49,4 @@ Below are some visuals included in this repository:
 - [AWS: What is Apache Flink?](https://aws.amazon.com/what-is/apache-flink/)  
 - [SonarQube](https://www.sonarsource.com/products/sonarqube/)  
 - [CodeScene](https://codescene.io)
-  should ı fwdf
+  
