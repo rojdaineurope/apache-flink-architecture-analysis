@@ -39,12 +39,12 @@ Below are some visuals included in this repository:
 ### Tool Output (SonarQube / CodeScene)
 ![Code Analysis](docs/Screenshot%202025-09-14%20043635.png)
 
-## 👩‍💻 Contributors
+## Contributors
 - Musa Yüksel  
 - Rojda Süslü  
 - Sena Dilan Çakır  
 
-## 🔗 References
+## References
 - [Apache Flink Official Documentation](https://nightlies.apache.org/flink/flink-docs-release-1.11/concepts/flink-architecture.html)  
 - [AWS: What is Apache Flink?](https://aws.amazon.com/what-is/apache-flink/)  
 - [SonarQube](https://www.sonarsource.com/products/sonarqube/)  
